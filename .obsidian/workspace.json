@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7b7fc285e2774f0d",
+        "id": "28511d93342020e2",
         "type": "tabs",
         "children": [
           {
-            "id": "a2aa7441f8f9030e",
+            "id": "cd75d8c74a297006",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "af678cb14f09be8b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Learning Goals.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learning Goals.md"
+              }
             }
           }
         ]
@@ -149,6 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af678cb14f09be8b",
-  "lastOpenFiles": []
+  "active": "cd75d8c74a297006",
+  "lastOpenFiles": [
+    "Video Content Ideas.md",
+    "Learning Goals.md"
+  ]
 }

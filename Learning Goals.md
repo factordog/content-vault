@@ -20,19 +20,19 @@
 ## Weekly
 
 **Monday**:
- - 30min Book Reading (Node JS)
+ - 30min Book Reading (Node JS Design Patterns)
  - Stream (2h)
 	 - Leetcode
 **Tuesday**:
- - 30min Book Reading (Node JS)
+ - 30min Book Reading (Node JS Design Patterns)
  - Stream (2h)
 	 - Project
 **Wednesday**:
- - 30min Book Reading (Node JS)
+ - 30min Book Reading (Node JS Design Patterns)
  - Stream (2h)
 	 - Project
 **Thursday**:
- - 30min Book Reading (Node JS)
+ - 30min Book Reading (Node JS Design Patterns)
  - Stream (2h)
 	 - Typescript Challenges
 **Friday**:
