@@ -4,7 +4,7 @@
 	- Advanced Typscript
 		- https://www.totaltypescript.com/workshops
 		- https://github.com/type-challenges/type-challenges (on stream)
-	- Leetcode DSA
+	- Leetcode/ DSA
 		- 3 months (random easy), goal is to identify weak points and really struggle through
 		- 3 months structured DSA sections
 		- 3 months Interview prep and mock interviews
